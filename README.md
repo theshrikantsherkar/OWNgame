@@ -1,4 +1,5 @@
-# SNAKKE WATER GUN GAME
+# SNAKE WATER GUN GAME
+# welcome to this amazing game
 print(" WELCOME TO THE SNAKE WATER GUN GAME \n"
       "press S for snake\n"
       "      w for water\n"
